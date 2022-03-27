@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67291339722",
+    "project_id": "gamergram-a6724",
+    "storage_bucket": "gamergram-a6724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67291339722:android:525c0d770805c8bd45cd33",
+        "android_client_info": {
+          "package_name": "com.gg.gamer_gram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67291339722-tmhmabteeu6nkcdkb34ltk3ddiuded7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACmY6xMgsxeJU4FFQ21WQBKQM7xMEmiuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67291339722-tmhmabteeu6nkcdkb34ltk3ddiuded7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
